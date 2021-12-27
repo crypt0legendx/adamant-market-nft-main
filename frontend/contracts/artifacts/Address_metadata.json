@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Adamant.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Adamant.sol": {
+			"keccak256": "0xaa223b0b2200ed0acb7bdd572bcfd12395f104eb56c07df950265812ff9afbbc",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://cb95e07041234fd2c0915b7c51db4a74b574f6839e4d9bea0dfeda0e39a7760a",
+				"dweb:/ipfs/QmfXfE5wZJNFBNy8fCYhWtjekL9djxtZ6dK6SAQtTSexug"
+			]
+		}
+	},
+	"version": 1
+}
